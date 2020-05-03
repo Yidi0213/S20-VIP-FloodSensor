@@ -1,0 +1,32 @@
+.NavBar{
+    height: 80px;
+    width: 100%;
+    background-color: #F4FAFF;
+}
+
+.NavBar Button {
+    background-color: #F4FAFF;
+}
+.NavBar Button a{
+    text-decoration: none;
+    color: grey;
+}
+
+.NavBar Button:hover{
+    background-color: white;
+}
+
+.NavBar Button:hover a{
+    text-decoration: none;
+    color: #7CC6FE;
+}
+
+.logo a{
+    font: 1.2em "Fira Sans", serif;
+    color: black;
+}
+
+.logo a:hover{
+    text-decoration: none;
+    color: black;
+}
