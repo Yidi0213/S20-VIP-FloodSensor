@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-### In the Map.js enter your own Google Map API Key.
+### **In the Map.js enter your own Google Map API Key.**
 ## Available Scripts
 
 In the project directory, you can run:
